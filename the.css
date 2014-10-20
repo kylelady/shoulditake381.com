@@ -1,0 +1,19 @@
+body { background: url('/wild_oliva.png') repeat; color:#EEE; font-family: 'Open Sans Condensed', 'Verdana', sans-serif;}
+
+h1{ font: 10em 'Yesteryear', cursive; margin-top: 0.5em; margin-bottom: 0.5em; text-align: center;}
+
+div.subhead { width: 100%; text-align: center; font-size: 1.4em; margin-left: auto; margin-right: auto; padding-bottom: 3em; }
+
+div.content > * { font-size: 1.4em }
+
+p,ol,ul { width: 60%; margin-left: auto; margin-right:auto; }
+
+ol ol, ol ul { width: 90%; padding-top: 0.25em; }
+
+ol li, ul li { padding-bottom: 0.25em; }
+
+p.disclaimer { font-size: 1em; text-align:center; width:50%; }
+
+p.section { font-weight: bold; }
+
+a {color: #BBF}
